@@ -22,3 +22,9 @@ var myVar = "Hello, world!";
 ```
 
 コードを追加しました
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+リストを追加しました
